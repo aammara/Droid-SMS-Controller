@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="URL">http://www.masante.tn/</string>
+    <string name="hello">Hello World, DroidSMSControllerActivity!</string>
+    <string name="app_name">Smart SMS Controller</string>
+    <string name="welcome">Welcome on Smart SMS Controller</string>
+    <string name="sponsor">This app is brought to you by Orange</string>
+    <string name="invite">To find out more visit our website :</string>
+    <string name="appShop">www.facebook.com/IDevelopTun</string>
+    <string name="startButton">Start</string>
+    <string name="thank">Thank you for using Smart SMS Controller</string>
+    <string name="hope">We hope you liked the app</string>
+    <string name="rate">To rate the app visit our website :</string>
+    <string name="PNhint">Phone Number</string>
+    <string name="sendButton">Send</string>
+    <string name="smsPrv">SMS preview : </string>
+    <string name="updateTitle">Smart SMS Controller Updater</string>
+    <string name="updateNotFound">No new updates were found ..</string>
+    <string name="updateText">Press the button below to seek for Updates</string>
+    <string name="updateMsg">Sorry, but updates needs an Internet connection</string>
+    <string name="serverMsg">Sorry, but the server is temporarily unavailable</string>
+    <string name="menuNew">New</string>
+    <string name="menuTerminal">Terminal</string>
+    <string name="menuFunctionsManager">Manager</string>
+    <string name="menuSettings">Settings</string>
+    <string name="menuUpdate">Update</string>
+    <string name="menuStatistics">Statistics</string>
+    <string name="menuHelp">Help</string>
+    <string name="menuHelpText">Click a feature to identify it.</string>
+    <string name="menuAbout">About</string>
+    <string name="menuExit">Exit</string>
+    <string name="menuPswd">Enter your password : </string>
+    <string name="menuPswdError">Invalid password</string>
+    <string name="menuPswdOkButton">OK</string>
+    <string name="menuPswdCancelButton">Cancel</string>
+    <string name="menuExitDialog">Would you like to keep SSC running on background ?</string>
+    <string name="menuExitDialogYB">Yes</string>
+    <string name="menuExitDialogNB">No</string>
+    <string name="otherAUTHO">Authorization List</string>
+    <string name="otherAUTHOMsg">Enable/Disable authorization</string>
+    <string name="otherSIMDetecter">SIM detector</string>
+    <string name="otherSIMDetecterMsg">Send me phone number on boot</string>
+    <string name="otherSIMDetecterNum">My number : </string>
+    <string name="otherSIMDetecterSaveButton">Save</string>
+    <string name="otherPSWDTitle">Password</string>
+    <string name="otherPSWDold">Old password : </string>
+    <string name="otherPSWDnew">New password : </string>
+    <string name="otherPSWDsaveButton">Save</string>
+    <string name="otherPSWDToastPos">Password Changed with success..</string>
+    <string name="otherPSWDToastNeg">Invalid Old Password !</string>
+    <string name="otherNEWnumTitle">Add new number</string>
+    <string name="otherNEWnumMsg">Phone number ( International Format )</string>
+    <string name="otherNEWnumHelpButton">Help ?</string>
+    <string name="otherNEWnumHelpText">Universal Format :\nCountry Code + Phone Number \nExample : \n+216 12 345 678 For Tunisia</string>
+    <string name="otherNEWnumAddButton">Add</string>
+    <string name="otherNEWnumToastPos">Number saved with success..</string>
+    <string name="otherNEWnumToastNeg">Number already exists..</string>
+    <string name="otherSOUNDTitle">Sound</string>
+    <string name="otherSOUNDMsg">Choose sound :</string>
+    <string name="otherSOUNDSaveButton">      Save      </string>
+    <string name="otherSOUNDPlayButton">      Play      </string>
+    <string name="otherSOUNDToast">Sound saved with success..</string>
+    <string name="settingsSOthers">others</string>
+    <string name="settingsAutho">authorization</string>
+    <string name="deleteButton">delete</string>
+    <string name="deleteTitle">Delete</string>
+    <string name="deleteMsg">Do you really want to delete </string>
+    <string name="numFound"> numbers were found..</string>
+    <string name="noNumFound">No number was found..</string>
+    <string name="oneNumFound">One number was found..</string>
+    <string name="newSmsNumber">Number :</string>
+    <string name="newSmsName">Name :</string>
+    <string name="newSmsMode">Mode :</string>
+    <string name="newSmsDuration">Duration :</string>
+    <string name="newSmsText">Text :</string>
+    <string name="connectionErrorMsgSta">Sorry, but statistics needs an Internet connection</string>
+    <string name="connectionErrorMsgUpdate">Sorry, but updates needs an Internet connection</string>
+    <string name="newSmsErrorToast">CAUTION :\na phone number is required!</string>
+    <string name="terminalMsg">[DSC ~] $wait to get terminal in the next version</string>
+    <string name="fnManagerTitle">Functions Manager</string>
+    <string name="fnManagerMsg">identify by</string>
+    <string name="fnManagerDesc">identified by</string>
+    <string name="fnManagerMsgNonId">No identifier</string>
+    <string name="fnManagerToast">function identified with success ..</string>
+    <string name="fnManagerToastError">error has occurred during identifying, this identifier is used by </string>
+    <string name="bootRecMsgP1">[DSC Number Catcher]\nThis number is using your Smartphone.</string>
+    <string name="bootRecMsgP2">\nSIM\'s Serial Number :</string>
+    <string name="smsCallLog">Call log is empty</string>
+    <string name="CallLogTypeOT">Outgoing</string>
+    <string name="CallLogTypeIC">Incoming</string>
+    <string name="CallLogTypeMS">Missed</string>
+    <string name="contactMsg">\'s phone number is </string>
+    <string name="SMSMsgFrom">from :</string>
+    <string name="SMSMsgBody">body :</string>
+    <string name="SMSMsgDate">date :</string>
+    <string name="deviceModel">Device Model :</string>
+    <string name="operatorName">Operator Name :</string>
+    <string name="SIMSerialNumber">SIM\'s serial number :</string>
+    <string name="menuMSGFail">Sorry, but this feature needs an Internet connection ..</string>
+    <string name="menuMSGSuccess">Find out more apps made by Ammar Achraf ..</string>
+    <string name="aboutABOUT">About Smart SMS Controller :</string>
+    <string name="aboutABOUT_TEXT">
+        Smart SMS Controller was developed by I DEVELOP. 
+        This application helps you to control your Android Device by a simple SMS.. 
+        You can control it whenever you feel like and wherever you are. 
+        Droid SMS Controller gives the choice to rename your functions as your own choice using the Manager.
+SSC is a smart application, it can  helps to control your device from distance. With SSC you won\'t suffer any more from distance.</string>
+<string name="aboutIDEVELOP">I DEVELOP : </string>
+    <string name="aboutIDEVELOP_TEXT">
+        I DEVELOP is a virtual Development group, we have been developing android apps since 2011. 
+        Our main purpose is to make from using Android Devices a fun, a confort and a win of time.. 
+        We develop also web sites, softwares and animated ads. 
+        We are doing our best to make from our virtual group a well known company.
+        </string>
+<string name="aboutLINKS">Useful Links :</string>
+<string name="aboutDVLPR">About Developer :</string>
+<string-array name="sounds">
+        <item>Danger</item>
+        <item>Scream</item>
+        <item>Alarm Clock</item>
+        </string-array>
+<string-array name="actions">
+        <item>Call Me</item>
+        <item>Delete Messages</item>
+        <item>Delete Call Log</item>
+        <item>Make a Call</item>
+        <item>Change Mode</item>
+        <item>Receive Contact Details</item>
+        <item>Receive Last Messages</item>
+        <item>Receive Location</item>
+        <item>Receive Informations</item>
+        <item>Send SMS To</item>
+        <item>Send Me Call Log</item>
+        <item>Save Contact</item>
+        <item>Get Time</item>
+        <item>Get Date</item>
+        <item>Play Sound</item>
+        <item>Vibrate</item>
+        </string-array>
+<string-array name="functions">
+        <item>call Me</item>
+        <item>delete inbox</item>
+        <item>delete call log</item>
+        <item>make call</item>
+        <item>mode</item>
+        <item>send me contact</item>
+        <item>send me last messages</item>
+        <item>send me location</item>
+        <item>send informations</item>
+        <item>send sms to</item>
+        <item>send me call log</item>
+        <item>save contact</item>
+        <item>send me time</item>
+        <item>send me date</item>
+        <item>play sound</item>
+        <item>vibrate</item>
+        </string-array>
+<string-array name="statistics">
+        <item>Number of downloads : </item>
+        <item>Number of active users : </item>
+        <item>Number of users today : </item>
+        <item>Number of on line users : </item>
+        <item>Average of users per day : </item>
+        </string-array>
+ <string-array name="descriptions">
+        <item>Description :\nThis function helps you to order your android device to call you. \nSyntax :\ncall me</item>
+        <item>Description :\nThis function helps you to order your android device to delete the inbox. \nSyntax :\delete inbox</item>
+        <item>Description :\nThis function helps you to order your android device to delete the call log. \nSyntax :\ndelete call log</item>
+        <item>Description :\nThis function helps you to order your android device to call you. \nSyntax :\nmake call NUMBER \nExample :\nmake call 123456789</item>
+        <item>Description :\nThis function helps you to order your android device to change the mode. \nSyntax :\mode MODE\nMODE : \nS for silent \nG for general \nV for vibrent mode \nExample :\nmode S</item>
+        <item>Description :\nThis function helps you to order your android device to read a contact and send you his number. \nSyntax :\nsend me contact CONTACT NAME \nExample :\nsend me contact Ammar Achraf</item>
+        <item>Description :\nThis function helps you to order your android device to send you the last 5 messages. \nSyntax :\nsend me last messages</item>
+        <item>Description :\nThis function helps you to order your android device to send you his curent location. \nSyntax :\nsend me location</item>
+        <item>Description :\nThis function helps you to order your android device to send you all the informations about him self. \nSyntax :\nsend me informations</item>
+        <item>Description :\nThis function helps you to order your android device to send an SMS to a specific phone number. \nSyntax :\nsend sms to PHONE NUMBER , SMS BODY\nExample :\nsend sms to 123456789 , Hello</item>
+        <item>Description :\nThis function helps you to order your android device to send you the last 10 actions from the call log\'s database. \nSyntax :\nsend me call log</item>
+        <item>Description :\nThis function helps you to order your android device to create and save a new contact. \nSyntax :\nsave contact PHONE NUMBER , CONTACT NAME</item>
+        <item>Description :\nThis function helps you to order your android device to send you the time. \nSyntax :\nsend me time</item>
+        <item>Description :\nThis function helps you to order your android device to send you the date. \nSyntax :\nsend me date</item>
+        <item>Description :\nThis function helps you to order your android device to play a sound. \nSyntax :\nplay sound</item>
+        <item>Description :\nThis function helps you to order your android device to vibrate. \nSyntax :\nvibrate</item>
+        </string-array>
+</resources>

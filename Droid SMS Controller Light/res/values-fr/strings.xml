@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, DroidSMSControllerActivity!</string>
+    <string name="app_name">Droid SMS Controller Light</string>
+    <string name="welcome">Bienvenu sur Droid SMS Controller Trial</string>
+    <string name="sponsor">DSC est amené chez vous par Orange</string>
+    <string name="invite">Pour plus des informations visitez :</string>
+    <string name="appShop">appshop.orange.tn</string>
+    <string name="startButton">Commencer</string>
+    <string name="thank">Merci d\'utiliser Droid SMS Controller Trial</string>
+    <string name="hope">Nous espérons que vous avez aimé l\'app</string>
+    <string name="rate">Visitez notre site web:</string>
+    <string name="PNhint">Numéro de téléphone</string>
+    <string name="sendButton">Envoyer</string>
+    <string name="smsPrv">Aperçu SMS :</string>
+    <string name="updateTitle">Droid SMS Controller Updater :</string>
+    <string name="updateText">Appuyez sur le bouton ci-dessous pour rechercher les mises à jour</string>
+    <string name="updateButton">Trouver mises à jour</string>
+    <string name="updateMsg">un SMS sera envoyé à partir de votre mobile à notre base, acceptez-vous?</string>
+    <string name="menuNew">Nouveau</string>
+    <string name="menuTerminal">Terminal</string>
+    <string name="menuFunctionsManager">Gestionnaire de fonctions</string>
+    <string name="menuSettings">Paramètres</string>
+    <string name="menuUpdate">Mise à jour</string>
+    <string name="menuHelp">Aide</string>
+    <string name="menuExit">Quiter</string>
+    <string name="menuPswd">Entrer votre mot de passe : </string>
+    <string name="menuPswdError">Mot de passe invalide!</string>
+    <string name="menuPswdOkButton">OK</string>
+    <string name="menuPswdCancelButton">Annuler</string>
+    <string name="menuExitDialog">Voulez-vous garder DSC active?</string>
+    <string name="menuExitDialogYB">Oui</string>
+    <string name="menuExitDialogNB">Non</string>
+    <string name="otherAUTHO">List d\'autorisation</string>
+    <string name="otherAUTHOMsg">Activer / Désactiver l\'autorisation</string>
+    <string name="otherSIMDetecter">detecteur de SIM</string>
+    <string name="otherSIMDetecterMsg">Envoyez-moi le numéro de téléphone au démarrage</string>
+    <string name="otherSIMDetecterNum">Mon numéro:</string>
+    <string name="otherSIMDetecterSaveButton">enregistrer</string>
+    <string name="otherPSWDTitle">Mot de passe</string>
+    <string name="otherPSWDold">Ancien mot de passe:</string>
+    <string name="otherPSWDnew">Nouveau mot de passe:</string>
+    <string name="otherPSWDsaveButton">enregistrer</string>
+    <string name="otherPSWDToastPos">Mot de passe modifié avec succès ..</string>
+    <string name="otherPSWDToastNeg">Ancien mot de passe invalide!</string>
+    <string name="otherNEWnumTitle">Ajouter un nouveau numéro</string>
+    <string name="otherNEWnumMsg">Numéro de téléphone (format international)</string>
+    <string name="otherNEWnumHelpButton">Aide ?</string>
+    <string name="otherNEWnumHelpText">Format universel: Code de pays + numéro de téléphone \nExemple: \n +216 12 345 678 Pour la Tunisie</string>
+    <string name="otherNEWnumAddButton">ajouter</string>
+    <string name="otherNEWnumToastPos">Nombre enregistré avec succès ..</string>
+    <string name="otherNEWnumToastNeg">Nombre existe déjà !</string>
+    <string name="otherSOUNDTitle">Son</string>
+    <string name="otherSOUNDMsg">Choisissez le son:</string>
+    <string name="otherSOUNDSaveButton">    enregistrer    </string>
+    <string name="otherSOUNDPlayButton">      ecouter      </string>
+    <string name="otherSOUNDToast">Son enregistré avec succès ..</string>
+     <string name="settingsSOthers">autres</string>
+    <string name="settingsAutho">autorisation</string>
+    <string name="deleteButton">supprimer</string>
+     <string name="deleteTitle">Supprimer</string>
+    <string name="deleteMsg">Voulez-vous vraiment supprimer </string>
+        <string name="numFound">numéros ont été trouvés ..</string>
+    <string name="noNumFound">Aucun numéro a été trouvé ..</string>
+    <string name="oneNumFound">Un seul numéro a été trouvé</string>
+    <string name="newSmsNumber">Numéro :</string>
+    <string name="newSmsName">Nom :</string>
+    <string name="newSmsMode">Mode :</string>
+    <string name="newSmsDuration">Durée :</string>
+    <string name="newSmsText">Texte :</string>
+    <string name="newSmsErrorToast">ATTENTION:\nle numéro de téléphone est nécessaire!</string>
+    <string name="terminalMsg">[DSC ~] $attendez pour obtenir Terminal dans la prochaine version</string>
+    <string name="fnManagerTitle">Gestionnaire de fonctions</string>
+    <string name="fnManagerMsg">identifier par</string>
+    <string name="fnManagerDesc">identifiée par</string>
+    <string name="fnManagerMsgNonId">Aucun identificateur</string>
+    <string name="fnManagerToast">fonction identifiée avec succès ..</string>
+    <string name="bootRecMsgP1">[Catcher Nombre DSC] \nCe numéro est entrain d\'utiliser votre Smartphone.</string>
+    <string name="bootRecMsgP2">\nnuméro de série de SIM :</string>
+    <string name="smsCallLog">Jouranl d\'appeles est vide</string>
+    <string name="CallLogTypeOT">Sortant</string>
+    <string name="CallLogTypeIC">Entrante</string>
+    <string name="CallLogTypeMS">Manqué</string>
+    <string name="hyperLinkText">Cliquez sur le lien ci-dessous pour obtenir la version complète :</string>
+    <string name="hyperLinkTitle">Version d\'essai</string>
+    <string name="hyperLinkLink">http://appshop.orange.tn/dsc.apk</string>
+<string-array name="sounds">
+        <item>Danger</item>
+        <item>Scream</item>
+        <item>Alarm Clock</item>
+        </string-array>
+<string-array name="actions">
+        <item>Appeler moi</item>
+        <item>Supprimer les messages</item>
+        <item>Supprimer le journal</item>
+        <item>Appeler un numéro</item>
+        <item>Changer Mode</item>
+        <item>Recevoir les coordonnées</item>
+        <item>Recevoir derniers messages</item>
+        <item>Recevoir Lieu</item>
+        <item>Recevoir des informations</item>
+        <item>Envoyer un SMS à</item>
+        <item>Envoyer moi le journal</item>
+        <item>Sauvegarder le contact</item>
+        <item>Obtenir le temps</item>
+        <item>Obtenir la date</item>
+        <item>Jouer un son</item>
+        <item>Vibrer</item>
+        </string-array>
+<string-array name="functions">
+        <item>appeler moi</item>
+        <item>supprimer boite de réception</item>
+        <item>supprimer journal des appels</item>
+        <item>appeler</item>
+        <item>mode</item>
+        <item>envoyer moi contact</item>
+        <item>Envoyer moi les derniers messages</item>
+        <item>envoyer moi l\'emplacement</item>
+        <item>envoyer moi les informations</item>
+        <item>envoyer sms a</item>
+        <item>envoyer moi le journal</item>
+        <item>enregistrer contact</item>
+        <item>envoyer moi le temps</item>
+        <item>envoyer moi la date</item>
+        <item>jouer son</item>
+        <item>vibrer</item>
+        </string-array>
+<string-array name="descriptions">
+        <item>Description :\nCe fonction vous aide pour commander votre appareil Android à vous appeler.\nSyntax:\nappelez-moi</item>
+        <item>Description :\nCe fonction vous aide pour commander votre appareil Android à supprimer la boîte de réception.\nSyntax:\nsupprimer boite de réception</item>
+        <item>Description :\nCe fonction vous aide pour commander votre appareil Android à supprimer le journal des appels.\nSyntax:\nsupprimer journal des appels</item>
+        <item>Description :\nCe fonction vous aide pour commander votre appareil Android à appeler un numéro.\nSyntax:\nappeler NUMERO\nExemple: appeler 123456789</item>
+        <item>Description :\nCe fonction vous aide pour commander votre appareil Android à changer le mode.\nSyntax: \nmode NOM DE MODE \nExemple: \nmode silencieux</item>
+        <item>Description :\nCe fonction vous aide à commander votre appareil Android pour lire un contact et vous envoyer son numéro.\nSyntax: \nenvoyer moi contact NOM DE LA PERSONNE \nExemple:\nenvoyer moi contact Ammar Achraf</item>
+        <item>Description :\nCe fonction vous aide pour commander votre appareil Android à vous envoyer les 5 derniers messages. \nSyntax: \nenvoyer moi les derniers messages</item>
+        <item>Description :\nCe fonction vous aide pour commander votre appareil Android à vous envoyer son emplacement curent. \nSyntax: \nenvoyer moi l\'emplacement</item>
+        <item>Description :\nCe fonction vous aide pour commander votre appareil Android à vous envoyer toutes les informations sur lui même. \nSyntax: \nenvoyer moi les informations</item>
+        <item>Description :\nCe fonction vous aide pour commander votre appareil Android à envoyer un SMS à un numéro de téléphone spécifique. \nSyntax: \nenvoyer sms au NUMERO DE TELEPHONE , TEXT \nExemple: \nenvoyer sms au 123456789 , Bonjour</item>
+        <item>Description :\nCe fonction vous aide pour commander votre appareil Android à vous envoyer les 10 dernières actions de journal des appels. \nSyntax: \nenvoyer moi le journal</item>
+        <item>Description :\nCe fonction vous aide pour commander votre appareil Android à créer et enregistrer un nouveau contact. \nSyntax: \nenregistrer contact NUMERO DE TELEPHONE , NOM DE CONTACT</item>
+        <item>Description :\nCe fonction vous aide pour commander votre appareil Android à vous envoyer le temps. \nSyntax: \nenvoyez-moi le temps</item>
+        <item>Description :\nCe fonction vous aide pour commander votre appareil Android à vous envoyer de la date. \nSyntax: \nenvoyez-moi la date</item>
+        <item>Description :\nCe fonction vous aide pour commander votre appareil Android à jouer un son. \nSyntax: \njouer son</item>
+        <item>Description :\nCe fonction vous aide à commander votre appareil Android à vibrer. \nSyntax: \nvibrer</item>
+        </string-array>
+</resources>

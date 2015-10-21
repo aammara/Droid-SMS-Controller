@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#000000" >
+
+    <AbsoluteLayout
+        android:id="@+id/AbsoluteLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_x="76dp"
+            android:layout_y="79dp" 
+            android:singleLine="true"
+            />
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_x="76dp"
+            android:layout_y="131dp" 
+            android:singleLine="true"/>
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="13dp"
+            android:layout_y="94dp"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="13dp"
+            android:layout_y="146dp"
+            android:text="" />
+
+        <EditText
+            android:id="@+id/smsPreview"
+            android:layout_width="297dp"
+            android:layout_height="100dp"
+            android:layout_x="12dp"
+            android:layout_y="221dp"
+            android:inputType="textMultiLine" 
+            android:editable="false"
+            >
+
+            <requestFocus />
+        </EditText>
+
+        <TextView
+            android:id="@+id/TextField"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="17dp"
+            android:layout_y="196dp"
+            android:text="@string/smsPrv" />
+
+        <Button
+            android:id="@+id/sendButton"
+            android:layout_width="142dp"
+            android:layout_height="wrap_content"
+            android:layout_x="85dp"
+            android:layout_y="350dp"
+            android:text="@string/sendButton" />
+
+        <EditText
+            android:id="@+id/number"
+            android:layout_width="305dp"
+            android:layout_height="wrap_content"
+            android:layout_x="6dp"
+            android:layout_y="10dp"
+            android:hint="@string/PNhint"
+            android:inputType="phone" />
+
+    </AbsoluteLayout>
+
+</ScrollView>

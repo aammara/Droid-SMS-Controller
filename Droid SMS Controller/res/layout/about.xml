@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+     >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+         >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:padding="5dp" >
+
+            <TextView
+                android:id="@+id/what_is"
+                android:text="@string/aboutABOUT"
+                android:textColor="#0083c7"
+                android:paddingLeft="10dp"
+                android:textSize="15dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/what_is_text"
+                android:text="@string/aboutABOUT_TEXT"
+                android:textColor="#333333"
+                android:paddingLeft="10dp"
+                android:textSize="14dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+             <TextView
+                android:id="@+id/CR"
+                android:text=""
+                android:textColor="#0083c7"
+                android:paddingLeft="10dp"
+                android:textSize="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+             <TextView
+                android:id="@+id/About_IDEVELOP"
+                android:text="@string/aboutIDEVELOP"
+                android:textColor="#0083c7"
+                android:paddingLeft="10dp"
+                android:textSize="15dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/About_IDEVELOP_TEXT"
+                android:text="@string/aboutIDEVELOP_TEXT"
+                android:textColor="#333333"
+                android:paddingLeft="10dp"
+                android:textSize="14dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:src="@drawable/eye_develop" />
+            
+            <TextView
+                android:id="@+id/CRSEC"
+                android:text=""
+                android:textColor="#0083c7"
+                android:paddingLeft="10dp"
+                android:textSize="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+            
+             <TextView
+                android:id="@+id/About_Dvlpr"
+                android:text="@string/aboutDVLPR"
+                android:textColor="#0083c7"
+                android:paddingLeft="10dp"
+                android:textSize="15dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+             
+             <TextView
+                android:id="@+id/About_DVLPR2"
+                android:text="Name/Prénom : Achraf --- Last Name/Nom : Ammar --- Age : 20 --- Intérêts : développement des logiciels, web et Mobile --- E-Mail : achthemuslim@gmail.com"
+                android:textColor="#333333"
+                android:paddingLeft="10dp"
+                android:textSize="14dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+             <LinearLayout
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content" >
+             </LinearLayout>
+            
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
